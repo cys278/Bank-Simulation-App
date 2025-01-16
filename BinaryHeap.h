@@ -5,7 +5,7 @@
  * 
  * Class Invariant:  Always a Complete Binary Heap.
  *
- * Author: Chowdhury Yasir(cya127) and Priyansh Sarvaiya (pgs3)
+ * Author: Chowdhury Yasir
  * 
  * Last Modified: April. 2024
  */
