@@ -4,7 +4,7 @@
  * Description: Header file defining the Event class, which represents an event in the simulation.
  *              Events can either be of type 'A' (Arrival) or 'D' (Departure).
  * 
- * Author: Chowdhury Yasir (cya127) and Priyansh Sarvaiya (pgs3)
+ * Author: Chowdhury Yasir 
  * 
  * Last Modified: April 2024
  */
