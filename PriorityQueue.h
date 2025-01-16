@@ -3,7 +3,7 @@
  *
  * Description: Header file defining the PriorityQueue class, which implements a priority queue data structure using a binary heap.
  *
- * Author: Chowdhury Yasir(cya127) and Priyansh Sarvaiya (pgs3)
+ * Author: Chowdhury Yasir
  * 
  * Last Modification: April. 2024
  *
