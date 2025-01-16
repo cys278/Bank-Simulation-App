@@ -3,7 +3,7 @@
  *
  * Description: PriorityQueue ADT class 
  *
- * Author: Chowdhury Yasir(cya127) and Priyansh Sarvaiya (pgs3)
+ * Author: Chowdhury Yasir
  * 
  * Last Modification: April. 2024
  *
